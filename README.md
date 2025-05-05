@@ -6,4 +6,7 @@ this repository currently contains only a datapack and resourcepack that are des
 that has only *accessories* and its dependancies installed. in its current state, the slot is created with a quantity of 1 and bound to the player,
 the spyglass is added to that slot's tag and can be placed into the slot without issue, and from prior testing the spyglass would render at the hip
 when placed in the slot if *spyglass improvements* were installed (which of course it isn't so this is irrelevant). the hurdles to overcome are the
-slot not displaying the icon "gameplay_tweaks:gui/slot/spyglass" and a human-readable name for the slot not existing in the active lang file.
+slot not displaying the icon `gameplay_tweaks:gui/slot/spyglass` and a human-readable name for the slot not existing in the active lang file.
+
+### version info
+I am running `accessories-neoforge-1.1.0-beta.42+1.21.1` and `owo-lib-neoforge-0.12.15.1-beta.3+1.21` on neoforge 21.1.169 / minecraft 1.21.1 (duh).
